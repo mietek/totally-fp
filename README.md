@@ -15,7 +15,7 @@ _totally-functional-programming_
 * 2011, P. Bailes, [“Approaching ‘totally functional programming’ through rigorous application of the reuse principle”](doc/pdf/bailes-2011.pdf)
 * 2012, P. Bailes, L. Brough, [“Making sense of recursion patterns”](doc/pdf/bailes-2012.pdf)
 * 2013, P. Bailes, L. Brough, C. Kemp, [“Higher-order catamorphisms as bases for program structuring and design recovery”](doc/pdf/bailes-2013a.pdf)
-* 2013, P. Bailes, “Recursion patterns and their impact on programming language design”
+* 2013, P. Bailes, [“Recursion patterns and their impact on programming language design”](doc/pdf/bailes-2013b.pdf)
 * 2014, P. Bailes, L. Brough, C. Kemp, [“From computer science to software engineering: A programming-level perspective”](doc/pdf/bailes-2014.pdf)
 
 

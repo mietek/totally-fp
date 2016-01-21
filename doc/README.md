@@ -21,7 +21,7 @@ The significance of functional programming is revealed as being that the feasibl
 Our TFP publications
 --------------------
 
-1.  [~~P. Bailes, "Recursion Patterns and their Impact on Programming Language Design", to appear IASTED ACS 2013~~](http://web.archive.org/web/20130507221819/http://itee.uq.edu.au/~paul/tfp-papers/iasted-cs-2013-final.pdf)
+1.  [P. Bailes, "Recursion Patterns and their Impact on Programming Language Design", to appear IASTED ACS 2013](pdf/bailes-2013b.pdf)
 
 2.  [P. Bailes, L. Brough and C. Kemp, "Higher-Order Catamorphisms as Bases for Program Structuring and Design Recovery", presented at IASTED SE 2013](pdf/bailes-2013a.pdf)
 
