@@ -6,17 +6,17 @@ _totally-functional-programming_
 
 ### Literature
 
-* 2001, P. Bailes, [“Programming without data: Towards a totally functional programming style”](doc/pdf/bailes-2001.pdf)
-* 2003, P. Bailes, C. Kemp, [“Formal methods within a totally functional approach to programming”](doc/pdf/bailes-2003a.pdf)
-* 2003, P. Bailes, C. Kemp, I. Peake, S. Seefried, [“Why functional programming really matters”](doc/pdf/bailes-2003b.pdf)
-* 2004, P. Bailes, C. Kemp, [“Obstacles to a totally functional programming style”](doc/pdf/bailes-2004.pdf)
-* 2005, P. Bailes, C. Kemp, [“Fusing folds and data structures into zoetic data”](doc/pdf/bailes-2005.pdf)
-* 2007, C. Kemp, [“Theoretical foundations for practical ‘totally functional programming’”](doc/pdf/kemp-2007.pdf)
-* 2011, P. Bailes, [“Approaching ‘totally functional programming’ through rigorous application of the reuse principle”](doc/pdf/bailes-2011.pdf)
-* 2012, P. Bailes, L. Brough, [“Making sense of recursion patterns”](doc/pdf/bailes-2012.pdf)
-* 2013, P. Bailes, L. Brough, C. Kemp, [“Higher-order catamorphisms as bases for program structuring and design recovery”](doc/pdf/bailes-2013a.pdf)
-* 2013, P. Bailes, [“Recursion patterns and their impact on programming language design”](doc/pdf/bailes-2013b.pdf)
-* 2014, P. Bailes, L. Brough, C. Kemp, [“From computer science to software engineering: A programming-level perspective”](doc/pdf/bailes-2014.pdf)
+* P. Bailes (2001) [“Programming without data: Towards a totally functional programming style”](doc/pdf/bailes-2001.pdf)
+* P. Bailes, C. Kemp (2003) [“Formal methods within a totally functional approach to programming”](doc/pdf/bailes-2003a.pdf)
+* P. Bailes, C. Kemp, I. Peake, S. Seefried (2003) [“Why functional programming really matters”](doc/pdf/bailes-2003b.pdf)
+* P. Bailes, C. Kemp (2004) [“Obstacles to a totally functional programming style”](doc/pdf/bailes-2004.pdf)
+* P. Bailes, C. Kemp (2005) [“Fusing folds and data structures into zoetic data”](doc/pdf/bailes-2005.pdf)
+* C. Kemp (2007) [“Theoretical foundations for practical ‘totally functional programming’”](doc/pdf/kemp-2007.pdf)
+* P. Bailes (2011) [“Approaching ‘totally functional programming’ through rigorous application of the reuse principle”](doc/pdf/bailes-2011.pdf)
+* P. Bailes, L. Brough (2012) [“Making sense of recursion patterns”](doc/pdf/bailes-2012.pdf)
+* P. Bailes, L. Brough, C. Kemp (2013) [“Higher-order catamorphisms as bases for program structuring and design recovery”](doc/pdf/bailes-2013a.pdf)
+* P. Bailes (2013) [“Recursion patterns and their impact on programming language design”](doc/pdf/bailes-2013b.pdf)
+* P. Bailes, L. Brough, C. Kemp (2014) [“From computer science to software engineering: A programming-level perspective”](doc/pdf/bailes-2014.pdf)
 
 
 ### Related work
