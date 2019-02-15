@@ -1,5 +1,5 @@
-_totally-functional-programming_
-================================
+_totally-fp_
+============
 
 [Archival version](doc/README.md) of the [TFP website](http://web.archive.org/web/20130507221819/http://itee.uq.edu.au/~paul/tfp-papers/), and all available literature.
 
@@ -21,9 +21,9 @@ _totally-functional-programming_
 
 ### Related work
 
-* [_Total_ functional programming](https://github.com/mietek/total-functional-programming)
-* [The ET language](https://github.com/mietek/et-language)
-* [The Charity language](https://github.com/mietek/charity-language)
+* [_Total_ functional programming](https://github.com/mietek/total-fp)
+* [ET language](https://github.com/mietek/et-lang)
+* [Charity language](https://github.com/mietek/charity-lang)
 
 
 About
